@@ -1,4 +1,4 @@
-// cypress/e2e/pages/PlaylistPage.js
+// cypress/e2e/pages/playlist_page.js
 
 class PlaylistPage {
     visit() {

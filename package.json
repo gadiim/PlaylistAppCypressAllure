@@ -2,24 +2,23 @@
   "name": "playlist_app_functionality_test",
   "version": "1.0.0",
   "description": "This project is a test suite for a music playlist web application using Cypress. It includes tests for searching tracks, adding tracks using a button, and adding multiple tracks using checkboxes. The project also generates detailed test reports using Allure.",
-  
   "scripts": {
-  "test": "cypress run --env allure=true",
-  "open": "cypress open --env allure=true",
-  "allure:generate": "allure generate allure-results --clean -o allure-report",
-  "allure:open": "allure open allure-report",
-  "allure": "npx allure serve allure-results"
-},
-
+    "test": "cypress run --env allure=true",
+    "open": "cypress open --env allure=true",
+    "allure:generate": "allure generate allure-results --clean -o allure-report",
+    "allure:open": "allure open allure-report",
+    "allure": "npx allure serve allure-results",
+    "clean": "rm -rf allure-results/*"
+  },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/gadiim/CypressAllurePlaylistApp"
   },
   "devDependencies": {
     "@shelex/cypress-allure-plugin": "^2.40.2",
-    "@testing-library/cypress": "^8.0.1",
     "allure-commandline": "^2.18.1",
-    "cypress": "^13.15.2"
+    "cypress": "^13.15.2",
+    "mocha": "^10.8.2"
   },
   "author": "gadiim",
   "license": ""

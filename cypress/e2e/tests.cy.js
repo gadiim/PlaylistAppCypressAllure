@@ -1,5 +1,5 @@
 import PlaylistPage from './pages/playlist_page';
-import { songsList, selectedSongs, trackName } from '../config/playlist_сonfig';
+import { songsList, selectedSongs, trackName } from '../config/playlist_config';
 
 describe('Playlist App Functionality Test', () => {
 

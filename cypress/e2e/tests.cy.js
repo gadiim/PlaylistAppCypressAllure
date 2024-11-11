@@ -1,3 +1,5 @@
+// cypress/e2e/tests.cy.js
+
 import PlaylistPage from './pages/playlist_page';
 import { songsList, selectedSongs, trackName } from '../config/playlist_config';
 

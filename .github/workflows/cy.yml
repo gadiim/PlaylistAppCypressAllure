@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Cypress install
         uses: cypress-io/github-action@v4
         with:
@@ -20,13 +20,13 @@ jobs:
         if: always()
         run: npm run allure:generate
       - name: Upload Results
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v4
         if: always()
         with:
           name: allure-results
           path: ./allure-results 
       - name: Publishing Allure artifact to Github Actions
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         if: always()
         with:
           name: allure-report

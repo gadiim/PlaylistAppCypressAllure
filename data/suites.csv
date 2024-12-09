@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","1396","Search Functionality","","Mon Dec 09 14:31:52 UTC 2024","passed","Mon Dec 09 14:31:53 UTC 2024","","Playlist App Functionality Test","",""
-"","951","Add Multiple Tracks","","Mon Dec 09 14:31:54 UTC 2024","passed","Mon Dec 09 14:31:55 UTC 2024","","Playlist App Functionality Test","",""
-"","456","Add Track Using ""+"" Button","","Mon Dec 09 14:31:53 UTC 2024","passed","Mon Dec 09 14:31:54 UTC 2024","","Playlist App Functionality Test","",""
+"","889","Search Functionality","","Mon Dec 09 14:46:01 UTC 2024","passed","Mon Dec 09 14:46:02 UTC 2024","","Playlist App Functionality Test","",""
+"","376","Add Track Using ""+"" Button","","Mon Dec 09 14:46:02 UTC 2024","passed","Mon Dec 09 14:46:02 UTC 2024","","Playlist App Functionality Test","",""
+"","821","Add Multiple Tracks","","Mon Dec 09 14:46:02 UTC 2024","passed","Mon Dec 09 14:46:03 UTC 2024","","Playlist App Functionality Test","",""

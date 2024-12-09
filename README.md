@@ -47,4 +47,4 @@ The project utilizes GitHub Pages for hosting and displaying the test reports. Y
 
 **License:**
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute this project. See the [LICENSE](./LICENSE) file for more details.
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project. See the [LICENSE](./LICENSE.txt) file for more details.

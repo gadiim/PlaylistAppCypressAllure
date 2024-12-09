@@ -1,3 +1,5 @@
+![CI](https://github.com/gadiim/PlaylistAppCypressAllure/actions/workflows/ci.yml/badge.svg)
+
 ## Playlist App Functionality Test
 
 **Objective:**
@@ -41,6 +43,6 @@ Allure is used for generating detailed test reports, providing insights into tes
 
 **GitHub Pages:** 
 
-The project utilizes GitHub Pages for hosting and displaying the test reports. You can view the test reports [here](https://gadiim.github.io/CypressAllurePlaylistApp/)
+The project utilizes GitHub Pages for hosting and displaying the test reports. You can view the test reports [here](https://gadiim.github.io/PlaylistAppCypressAllure/)
 
 
